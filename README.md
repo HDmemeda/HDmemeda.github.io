@@ -1,34 +1,13 @@
 ## Welcome to the blog of HD
 Well Well Well
 Nothing to say.
+that's it.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-### Jekyll Themes
-
-
-
-### Support or Contact
 
 
